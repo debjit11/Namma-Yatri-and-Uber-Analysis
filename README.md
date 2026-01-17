@@ -144,14 +144,6 @@ It combines **business understanding, EDA, and machine learning** to deliver act
 
 ---
 
-## 👤 Author
 
-**Debjit Das**  
-B.Tech CSE (AI & ML)  
-Machine Learning & Data Science Enthusiast 🇮🇳
-
----
-
-⭐ If you find this project useful, feel free to **star the repository**!
 
 
