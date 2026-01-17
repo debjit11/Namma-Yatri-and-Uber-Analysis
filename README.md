@@ -140,8 +140,6 @@ This project demonstrates how **data-driven analysis** can help ride-hailing pla
 - Optimize driver deployment
 - Increase completed trips and earnings
 
-It combines **business understanding, EDA, and machine learning** to deliver actionable insights.
-
 
 
 
