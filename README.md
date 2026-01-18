@@ -127,7 +127,7 @@ The booking funnel analyzed:
 - Jupyter Notebook
 
 ---
----
+
 
 ## 🚀 Conclusion
 
