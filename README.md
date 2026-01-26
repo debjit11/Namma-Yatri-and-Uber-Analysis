@@ -1,8 +1,9 @@
 # 🚕 Namma Yatri & Uber Data Analysis and Prediction
 
-This repository contains **Exploratory Data Analysis (EDA)** and **Machine Learning–based prediction** on ride-hailing data, focusing mainly on **Namma Yatri (Bangalore Open Data)** and comparative insights with **Uber-style ride metrics**.
+This repository contains **Exploratory Data Analysis (EDA)** and **Machine Learning–based prediction** on **Yatri Sathi (Namma Yatri) ride-hailing data** from **Bangalore Open Data**.
 
-The project aims to understand **ride booking behavior**, analyze **drop-offs in the booking funnel**, study **ward-wise performance**, handle **outliers**, and build **predictive models** for key business outcomes.
+The project focuses on understanding **ride booking behavior**, analyzing **user drop-offs across the booking funnel**, studying **ward-wise performance**, handling **outliers in rate-based features**, and building **predictive models** for key business metrics such as **completed trips and drivers’ earnings**.
+
 
 ---
 
