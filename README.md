@@ -5,7 +5,6 @@ This repository contains **Exploratory Data Analysis (EDA)** and **Machine Learn
 The project focuses on understanding **ride booking behavior**, analyzing **user drop-offs across the booking funnel**, studying **ward-wise performance**, handling **outliers in rate-based features**, and building **predictive models** for key business metrics such as **completed trips and drivers’ earnings**.
 
 
----
 
 ## 📌 Dataset Overview
 
